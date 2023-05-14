@@ -12,7 +12,13 @@ The project has four main notebooks:
 
 3) MIMIC-Setup-For-Model-Work 	Creates, assigns labels, splits and balances files
 
-4) Create-Test-Model			Fine-Tune Bio-ClinicalBert, Test and Measure Performance
+4) MIMIC-Kaggle-Model			Fine-Tune Bio-ClinicalBert, Test and Measure Performance
+
+The first three can easily run in a CPU environment. The last one (4) was ported and executed on Kaggle using Hugging Face
 
 
-The first three can easy run in a CPU environment. The last one was ported and executed on Kaggle using Hugging Face
+There is one additional File
+
+5) MIMIC-Final-Project-File		The final report, which is a PDF File		
+
+
