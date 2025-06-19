@@ -6,19 +6,28 @@
 
 The project has four main notebooks:
 
-1) Mimic_Note-EDA				Explores details about admission and note data by diagnosis
+1) Mimic-EDA-Notebook			Explores details about admission and note data by diagnosis
 
-2) MIMIC-Scrub-Notes			Cleanup text data
+2) Scrub-MIMIC-Data-2			Cleanup text data
 
-3) MIMIC-Setup-For-Model-Work 	Creates, assigns labels, splits and balances files
+3) Setup-For-Model-2		 	Creates, assigns labels, splits and balances files
 
-4) MIMIC-Kaggle-Model			Fine-Tune Bio-ClinicalBert, Test and Measure Performance
+4) Diagnosis-Ensemble			Runs Code Scripts that Fine-Tunes ClinicalBert, Test and Measure Performance
 
-The first three can easily run in a CPU environment. The last one (4) was ported and executed on Kaggle using Hugging Face
+The first three can easily run in a CPU environment. The last one (4) was ported and executed on Google-Collab
+
+There are 2 python scripts executed by the last notebook:
+
+1) BERT-Diagnosis.py
+
+2) TFIDF-Diagnosis.py
 
 
-There is one additional File
+There is two additional File
 
-5) MIMIC-Final-Project-File		The final report, which is a PDF File		
+1) Using Early Diagnosis Prediction in the ICU as a Trigger Data Point			Research Overview Presentation as a PDF
+
+2) Abstract.pdf										Research Abstract
+	
 
 
