@@ -6,13 +6,17 @@
 
 The project has four main notebooks:
 
-1) Mimic-EDA-Notebook			&ensp;&ensp;Explores details about admission and note data by diagnosis
+1) Mimic-EDA-Notebook			
+-	&ensp;&ensp;Explores details about admission and note data by diagnosis
 
-2) Scrub-MIMIC-Data-2			&ensp;&ensp;Cleanup text data
+2) Scrub-MIMIC-Data-2			
+-	&ensp;&ensp;Cleanup text data
 
-3) Setup-For-Model-2		 	&ensp;&ensp;Creates, assigns labels, splits and balances files
+3) Setup-For-Model-2		 	
+i	&ensp;&ensp;Creates, assigns labels, splits and balances files
 
-4) Diagnosis-Ensemble			&ensp;&ensp;Runs Code Scripts that Fine-Tunes ClinicalBert, Test and Measure Performance
+4) Diagnosis-Ensemble			
+-	&ensp;&ensp;Runs Code Scripts that Fine-Tunes ClinicalBert, Test and Measure Performance
 
 The first three can easily run in a CPU environment. The last one (4) was ported and executed on Google-Collab
 
@@ -25,9 +29,11 @@ There are 2 python scripts executed by the last notebook:
 
 There is two additional File
 
-1) Using Early Diagnosis Prediction in the ICU as a Trigger Data Point			&ensp;&ensp;Research Overview Presentation as a PDF
+1) Using Early Diagnosis Prediction in the ICU as a Trigger Data Point			
+-	&ensp;&ensp;Research Overview Presentation as a PDF
 
-2) Abstract.pdf										&ensp;&ensp;Research Abstract
+2) Abstract.pdf										
+-	&ensp;&ensp;Research Abstract
 	
 
 
