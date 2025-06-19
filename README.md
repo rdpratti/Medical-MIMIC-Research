@@ -13,7 +13,7 @@ The project has four main notebooks:
 -	&ensp;&ensp;Cleanup text data
 
 3) Setup-For-Model-2		 	
-i	&ensp;&ensp;Creates, assigns labels, splits and balances files
+-	&ensp;&ensp; Creates, assigns labels, splits and balances files
 
 4) Diagnosis-Ensemble			
 -	&ensp;&ensp;Runs Code Scripts that Fine-Tunes ClinicalBert, Test and Measure Performance
